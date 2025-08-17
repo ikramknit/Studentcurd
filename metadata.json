@@ -1,0 +1,5 @@
+{
+  "name": "React CRUD Example",
+  "description": "A fully functional Create, Read, Update, and Delete (CRUD) application built with React, TypeScript, and Tailwind CSS. It demonstrates state management, component composition, and modern UI/UX patterns.",
+  "requestFramePermissions": []
+}
